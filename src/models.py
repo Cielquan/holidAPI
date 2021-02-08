@@ -13,8 +13,7 @@ from pathlib import Path
 import sqlalchemy as db
 
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import relationship
-from sqlalchemy.orm.session import sessionmaker
+from sqlalchemy.orm import relationship, sessionmaker
 
 
 states = {
@@ -70,8 +69,8 @@ class Holiday(Base):
     holiday = db.Column(db.String(50), index=True, nullable=False)
     year = db.Column(db.Integer, index=True, nullable=False)
     school_year = db.Column(db.String(5), index=True, nullable=False)
-    start = db.Column(db.sql.sqltypes.DATE, nullable=False)
-    end = db.Column(db.sql.sqltypes.DATE, nullable=False)
+    start = db.Column(db.DATE, nullable=False)
+    end = db.Column(db.DATE, nullable=False)
 
     def __repr__(self) -> str:
         """Represent Holiday model."""
