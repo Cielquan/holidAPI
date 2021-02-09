@@ -75,7 +75,7 @@ class Holiday(Base):
     def __repr__(self) -> str:
         """Represent Holiday model."""
         return (
-            f"<holiday(holiday='{self.holiday}', "
+            f"<holidays(holiday='{self.holiday}', "
             f"state='{self.state}', "
             f"school_year='{self.school_year}', "
             f"start='{self.start}', "
@@ -98,7 +98,7 @@ class PublicHoliday(Base):
     def __repr__(self) -> str:
         """Represent PublicHoliday model."""
         return (
-            f"<public_holiday(public_holiday='{self.holiday}', "
+            f"<public_holidays(public_holiday='{self.holiday}', "
             f"state='{self.state}', "
             f"school_year='{self.school_year}', "
             f"date='{self.date}'>"
