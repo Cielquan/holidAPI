@@ -93,7 +93,7 @@ class PublicHoliday(Base):
     holiday = db.Column(db.String(50), index=True, nullable=False)
     year = db.Column(db.Integer, index=True, nullable=False)
     school_year = db.Column(db.String(5), index=True, nullable=False)
-    date = db.Column(db.sql.sqltypes.DATE, nullable=False)
+    date = db.Column(db.DATE, nullable=False)
 
     def __repr__(self) -> str:
         """Represent PublicHoliday model."""
