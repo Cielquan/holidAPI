@@ -12,7 +12,7 @@ from pathlib import Path
 
 import sqlalchemy as db
 
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.ext.declarative import declarative_base, DeclarativeMeta
 from sqlalchemy.orm import relationship, sessionmaker
 
 
@@ -38,7 +38,7 @@ states = {
 
 engine = db.create_engine("sqlite:///" + str(Path("holiday.db")))
 Session: db.orm.session.Session = sessionmaker(bind=engine)
-Base = declarative_base()
+Base: DeclarativeMeta = declarative_base()
 
 
 class State(Base):
