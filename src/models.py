@@ -12,6 +12,7 @@ import csv
 
 from datetime import date
 from pathlib import Path
+from typing import Dict, Union
 
 import sqlalchemy as db
 
@@ -86,6 +87,19 @@ class Holiday(Base):
             f"end='{self.end}', "
             f"comment='{self.comment}'>"
         )
+
+    def to_dict(self) -> Dict[str, Union[int, str, date]]:
+        """Convert the model to a dict."""
+        return {
+            "holiday": self.holiday,
+            "state_abbrevation": self.state.abbr,
+            "state_long_name": self.state.long_name,
+            "year": self.year,
+            "school_year": self.school_year,
+            "start": self.start,
+            "end": self.end,
+            "comment": self.comment,
+        }
 
 
 # class PublicHoliday(Base):
