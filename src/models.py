@@ -10,7 +10,7 @@
 # https://www.kmk.org/service/ferien.html
 import csv
 
-from datetime import date, timedelta
+from datetime import date
 from pathlib import Path
 
 import sqlalchemy as db
@@ -36,34 +36,6 @@ states = {
     "ST": "Sachsen-Anhalt",
     "SH": "Schleswig-Holstein",
     "TH": "Thueringen",
-}
-
-
-OS = date.today()
-pub_holidays = {
-    "Neujahr": {"wer": "alle", "wann": "01.01."},
-    "Heilige Drei Könige": {"wer": ["BW", "BY", "ST"], "wann": "06.01."},
-    "Frauentag": {"wer": ["BE"], "wann": "08.03."},
-    "Karfreitag": {"wer": "alle", "wann": OS + timedelta(-2)},
-    "Ostermontag": {"wer": "alle", "wann": OS + timedelta(1)},
-    "Tag der Arbeit": {"wer": "alle", "wann": "01.05."},
-    "Christi Himmelfahrt": {"wer": "alle", "wann": OS + timedelta(39)},
-    "Pfingsmontag": {"wer": "alle", "wann": OS + timedelta(50)},
-    "Fronleichnam": {
-        "wer": ["BW", "BY", "HE", "NW", "RP", "SL"],
-        "wann": OS + timedelta(60),
-    },
-    "Mariä Himmelfahrt": {"wer": ["SL"], "wann": "15.08."},
-    "Weltkindertag": {"wer": ["TH"], "wann": "20.09."},
-    "Tag der d. Einheit": {"wer": "alle", "wann": "03.10."},
-    "Reformationstag": {
-        "wer": ["BB", "HB", "HH", "MW", "NI", "SN", "ST", "SH", "TH"],
-        "wann": "31.10.",
-    },
-    "Allerheiligen": {"wer": ["BW", "BY", "NW", "RP", "SL"], "wann": "01.11."},
-    "Buß- und Bettag": {"wer": ["SN"], "wann": "Mi vor 23.11."},
-    "1. Weihnachtsfeiertag": {"wer": "alle", "wann": "25.12."},
-    "2. Weihnachtsfeiertag": {"wer": "alle", "wann": "26.12."},
 }
 
 
