@@ -1,5 +1,6 @@
 """Create api directory apiure."""
 import json
+from os import X_OK
 
 from pathlib import Path
 from typing import Generator, List
@@ -37,19 +38,19 @@ def query_to_file(directory: Path, query: List) -> None:
 def get_years_from_db() -> Generator:
     """Get all years from the database.
 
-    :yield: iterable with all availabe years
+    :return: iterable with all availabe years
     """
     session: db.orm.session.Session = Session()
-    yield (e[0] for e in set(session.query(Holiday.year).all()))
+    return (e[0] for e in set(session.query(Holiday.year).all()))
 
 
 def get_school_years_from_db() -> Generator:
     """Get all school years from the database.
 
-    :yield: iterable with all availabe school years
+    :return: iterable with all availabe school years
     """
     session: db.orm.session.Session = Session()
-    yield (e[0] for e in set(session.query(Holiday.school_year).all()))
+    return (e[0] for e in set(session.query(Holiday.school_year).all()))
 
 
 # STRUCTURE CREATORS
