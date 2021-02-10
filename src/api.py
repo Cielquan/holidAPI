@@ -1,6 +1,5 @@
 """Create api directory apiure."""
 import json
-from os import X_OK
 
 from pathlib import Path
 from typing import Generator, List

@@ -16,7 +16,10 @@ from typing import Dict, List, Union
 
 import sqlalchemy as db  # type: ignore[import]
 
-from sqlalchemy.ext.declarative import DeclarativeMeta, declarative_base  # type: ignore[import]
+from sqlalchemy.ext.declarative import (  # type: ignore[import]
+    DeclarativeMeta,
+    declarative_base,
+)
 from sqlalchemy.orm import relationship, sessionmaker  # type: ignore[import]
 
 
