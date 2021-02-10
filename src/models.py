@@ -8,6 +8,7 @@
     :license: MIT, see LICENSE
 """  # noqa: D205,D208,D400
 # https://www.kmk.org/service/ferien.html
+from datetime import date, timedelta
 from pathlib import Path
 
 import sqlalchemy as db
@@ -36,16 +37,18 @@ states = {
 }
 
 
+
+OS = date.today()
 pub_holidays = {
     "Neujahr": {"wer": "alle", "wann": "01.01."},
     "Heilige Drei Könige": {"wer": ["BW", "BY", "ST"], "wann": "06.01."},
     "Frauentag": {"wer": ["BE"], "wann": "08.03."},
-    "Karfreitag": {"wer": "alle", "wann": "OS - 2"},
-    "Ostermontag": {"wer": "alle", "wann": "OS + 1"},
+    "Karfreitag": {"wer": "alle", "wann": OS + timedelta(-2)},
+    "Ostermontag": {"wer": "alle", "wann": OS + timedelta(1)},
     "Tag der Arbeit": {"wer": "alle", "wann": "01.05."},
-    "Christi Himmelfahrt": {"wer": "alle", "wann": "OS + 39"},
-    "Pfingsmontag": {"wer": "alle", "wann": "OS + 50"},
-    "Fronleichnam": {"wer": ["BW", "BY", "HE", "NW", "RP", "SL"], "wann": "OS + 60"},
+    "Christi Himmelfahrt": {"wer": "alle", "wann": OS + timedelta(39)},
+    "Pfingsmontag": {"wer": "alle", "wann": OS + timedelta(50)},
+    "Fronleichnam": {"wer": ["BW", "BY", "HE", "NW", "RP", "SL"], "wann": OS + timedelta(60)},
     "Mariä Himmelfahrt": {"wer": ["SL"], "wann": "15.08."},
     "Weltkindertag": {"wer": ["TH"], "wann": "20.09."},
     "Tag der d. Einheit": {"wer": "alle", "wann": "03.10."},
@@ -73,7 +76,7 @@ class State(Base):
     )
     long_name = db.Column(db.String(25), index=True, nullable=False)
     holidays = relationship("Holiday", backref="state")
-    public_holidays = relationship("PublicHoliday", backref="state")
+    # public_holidays = relationship("PublicHoliday", backref="state")
 
     def __repr__(self) -> str:
         """Represent State model."""
@@ -135,10 +138,6 @@ def fill_states_table() -> None:
 
 
 def fill_holiday_table() -> None:
-    pass
-
-
-def fill_public_holiday_table() -> None:
     pass
 
 
