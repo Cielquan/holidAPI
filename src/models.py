@@ -8,6 +8,8 @@
     :license: MIT, see LICENSE
 """  # noqa: D205,D208,D400
 # https://www.kmk.org/service/ferien.html
+import csv
+
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -18,7 +20,7 @@ from sqlalchemy.orm import relationship, sessionmaker
 
 
 states = {
-    "BW": "Baden-Württemberg",
+    "BW": "Baden-Wuerttemberg",
     "BY": "Bayern",
     "BE": "Berlin",
     "BB": "Brandenburg",
@@ -33,9 +35,8 @@ states = {
     "SN": "Sachsen",
     "ST": "Sachsen-Anhalt",
     "SH": "Schleswig-Holstein",
-    "TH": "Thüringen",
+    "TH": "Thueringen",
 }
-
 
 
 OS = date.today()
@@ -48,11 +49,17 @@ pub_holidays = {
     "Tag der Arbeit": {"wer": "alle", "wann": "01.05."},
     "Christi Himmelfahrt": {"wer": "alle", "wann": OS + timedelta(39)},
     "Pfingsmontag": {"wer": "alle", "wann": OS + timedelta(50)},
-    "Fronleichnam": {"wer": ["BW", "BY", "HE", "NW", "RP", "SL"], "wann": OS + timedelta(60)},
+    "Fronleichnam": {
+        "wer": ["BW", "BY", "HE", "NW", "RP", "SL"],
+        "wann": OS + timedelta(60),
+    },
     "Mariä Himmelfahrt": {"wer": ["SL"], "wann": "15.08."},
     "Weltkindertag": {"wer": ["TH"], "wann": "20.09."},
     "Tag der d. Einheit": {"wer": "alle", "wann": "03.10."},
-    "Reformationstag": {"wer": ["BB", "HB", "HH", "MW", "NI", "SN", "ST", "SH", "TH"], "wann": "31.10."},
+    "Reformationstag": {
+        "wer": ["BB", "HB", "HH", "MW", "NI", "SN", "ST", "SH", "TH"],
+        "wann": "31.10.",
+    },
     "Allerheiligen": {"wer": ["BW", "BY", "NW", "RP", "SL"], "wann": "01.11."},
     "Buß- und Bettag": {"wer": ["SN"], "wann": "Mi vor 23.11."},
     "1. Weihnachtsfeiertag": {"wer": "alle", "wann": "25.12."},
@@ -95,6 +102,7 @@ class Holiday(Base):
     school_year = db.Column(db.String(5), index=True, nullable=False)
     start = db.Column(db.DATE, nullable=False)
     end = db.Column(db.DATE, nullable=False)
+    comment = db.Column(db.String(255), nullable=True)
 
     def __repr__(self) -> str:
         """Represent Holiday model."""
@@ -103,7 +111,8 @@ class Holiday(Base):
             f"state='{self.state}', "
             f"school_year='{self.school_year}', "
             f"start='{self.start}', "
-            f"end='{self.end}'>"
+            f"end='{self.end}', "
+            f"comment='{self.comment}'>"
         )
 
 
@@ -137,11 +146,49 @@ def fill_states_table() -> None:
     session.commit()
 
 
+def create_holiday_entry(row, session) -> Holiday:
+    return Holiday(
+        state_id=session.query(State).filter_by(long_name=row[0]).first().id,
+        holiday=row[1],
+        year=int(row[2]),
+        school_year=row[3],
+        start=date(
+            year=int(row[2]),
+            month=int(row[4].split(".")[1]),
+            day=int(row[4].split(".")[0]),
+        ),
+        end=date(
+            year=int(row[2]),
+            month=int(row[5].split(".")[1]),
+            day=int(row[5].split(".")[0]),
+        ),
+        comment=row[6],
+    )
+
+
 def fill_holiday_table() -> None:
-    pass
+    session: db.orm.session.Session = Session()
+    for csv_path in Path("data").glob("*.csv"):
+        with open(csv_path, "r") as csv_file:
+            csv_data = csv.reader(csv_file, delimiter=",")
+            for row in csv_data:
+                if row[0] == "":
+                    continue
+                session.add(create_holiday_entry(row, session))
+    session.commit()
 
 
 def create_db() -> None:
     """Create the database and fill it with defaults."""
     Base.metadata.create_all(engine)
     fill_states_table()
+
+
+def recreate_db() -> None:
+    Path("holiday.db").unlink(missing_ok=True)
+    create_db()
+    fill_holiday_table()
+
+
+if __name__ == "__main__":
+    recreate_db()
