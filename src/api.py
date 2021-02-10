@@ -73,7 +73,7 @@ def create_year_state_api() -> None:
         query_to_file(year_dir, session.query(Holiday).filter_by(year=year).all())
 
         for state in session.query(State).all():
-            state_dir = year_dir / state.abbr
+            state_dir = year_dir / "state" / state.abbr
             state_dir.mkdir(parents=True, exist_ok=True)
             query_to_file(
                 state_dir,
@@ -93,7 +93,7 @@ def create_state_year_api() -> None:
         )
 
         for year in get_years_from_db():
-            year_dir = state_dir / str(year)
+            year_dir = state_dir / "year" / str(year)
             year_dir.mkdir(parents=True, exist_ok=True)
             query_to_file(
                 year_dir,
