@@ -3,7 +3,7 @@ holidapi
 ========
 
 
-|maintenance_n| |license|
+|maintenance_y| |license|
 |gh_last_commit|
 |gh_stars| |gh_forks| |gh_contributors| |gh_watchers|
 
