@@ -12,12 +12,12 @@ import csv
 
 from datetime import date
 from pathlib import Path
-from typing import Dict, Union
+from typing import Dict, List, Union
 
-import sqlalchemy as db
+import sqlalchemy as db  # type: ignore[import]
 
-from sqlalchemy.ext.declarative import declarative_base, DeclarativeMeta
-from sqlalchemy.orm import relationship, sessionmaker
+from sqlalchemy.ext.declarative import DeclarativeMeta, declarative_base  # type: ignore[import]
+from sqlalchemy.orm import relationship, sessionmaker  # type: ignore[import]
 
 
 states = {
@@ -88,7 +88,7 @@ class Holiday(Base):
             f"comment='{self.comment}'>"
         )
 
-    def to_dict(self) -> Dict[str, Union[int, str, date]]:
+    def to_dict(self, json_friendly: bool) -> Dict[str, Union[int, str, date]]:
         """Convert the model to a dict."""
         return {
             "holiday": self.holiday,
@@ -96,8 +96,8 @@ class Holiday(Base):
             "state_long_name": self.state.long_name,
             "year": self.year,
             "school_year": self.school_year,
-            "start": self.start,
-            "end": self.end,
+            "start": self.start.isoformat() if json_friendly else self.start,
+            "end": self.end.isoformat() if json_friendly else self.end,
             "comment": self.comment,
         }
 
@@ -132,7 +132,13 @@ def fill_states_table() -> None:
     session.commit()
 
 
-def create_holiday_entry(row, session) -> Holiday:
+def create_holiday_entry(row: List, session: db.orm.session.Session) -> Holiday:
+    """Create Holiday instance from csv file row.
+
+    :param row: row from csv file
+    :param session: database session
+    :return: Holiday instance
+    """
     return Holiday(
         state_id=session.query(State).filter_by(long_name=row[0]).first().id,
         holiday=row[1],
@@ -153,9 +159,10 @@ def create_holiday_entry(row, session) -> Holiday:
 
 
 def fill_holiday_table() -> None:
+    """Fill the holiday database table."""
     session: db.orm.session.Session = Session()
     for csv_path in Path("data").glob("*.csv"):
-        with open(csv_path, "r") as csv_file:
+        with open(csv_path) as csv_file:
             csv_data = csv.reader(csv_file, delimiter=",")
             for row in csv_data:
                 if row[0] == "":
@@ -171,6 +178,7 @@ def create_db() -> None:
 
 
 def recreate_db() -> None:
+    """Recreate total database."""
     Path("holiday.db").unlink(missing_ok=True)
     create_db()
     fill_holiday_table()
