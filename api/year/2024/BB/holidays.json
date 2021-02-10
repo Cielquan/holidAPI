@@ -1,0 +1,32 @@
+[
+    {
+        "holiday": "winter",
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-05",
+        "end": "2024-02-09",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-04-05",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-18",
+        "end": "2024-08-31",
+        "comment": ""
+    }
+]

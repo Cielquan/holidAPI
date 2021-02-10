@@ -1,0 +1,32 @@
+[
+    {
+        "holiday": "herbst",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2020,
+        "school_year": "20/21",
+        "start": "2020-10-05",
+        "end": "2020-10-10",
+        "comment": "Erster Teil"
+    },
+    {
+        "holiday": "herbst",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2020,
+        "school_year": "20/21",
+        "start": "2020-11-02",
+        "end": "2020-11-03",
+        "comment": "Zweiter Teil"
+    },
+    {
+        "holiday": "weihnachten",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2020,
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "end": "2020-01-02",
+        "comment": ""
+    }
+]

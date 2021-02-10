@@ -1,0 +1,612 @@
+[
+    {
+        "holiday": "winter",
+        "state_abbrevation": "BE",
+        "state_long_name": "Berlin",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-05",
+        "end": "2024-02-10",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-05",
+        "end": "2024-02-09",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-01",
+        "end": "2024-02-02",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-02",
+        "end": "2024-02-02",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-05",
+        "end": "2024-02-16",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "NI",
+        "state_long_name": "Niedersachsen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-01",
+        "end": "2024-02-02",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-12",
+        "end": "2024-02-16",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-12",
+        "end": "2024-02-23",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-05",
+        "end": "2024-02-10",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "TH",
+        "state_long_name": "Thueringen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-12",
+        "end": "2024-02-16",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "BW",
+        "state_long_name": "Baden-Wuerttemberg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-23",
+        "end": "2024-04-05",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-12",
+        "end": "2024-02-16",
+        "comment": "Erster Teil"
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-04-06",
+        "comment": "Zweiter Teil"
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "BE",
+        "state_long_name": "Berlin",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-04-05",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-04-05",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-18",
+        "end": "2024-03-28",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-18",
+        "end": "2024-03-28",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "HE",
+        "state_long_name": "Hessen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-04-13",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-04-03",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "NI",
+        "state_long_name": "Niedersachsen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-18",
+        "end": "2024-03-28",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "NW",
+        "state_long_name": "Nordrhein-Westfalen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-04-06",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "RP",
+        "state_long_name": "Rheinland-Pfalz",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-04-02",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-04-05",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-28",
+        "end": "2024-04-05",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-03-30",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-04-02",
+        "end": "2024-04-19",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "TH",
+        "state_long_name": "Thueringen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-25",
+        "end": "2024-04-06",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "BW",
+        "state_long_name": "Baden-Wuerttemberg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-21",
+        "end": "2024-05-31",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-21",
+        "end": "2024-06-01",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "BE",
+        "state_long_name": "Berlin",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-10",
+        "end": "2024-05-10",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-10",
+        "end": "2024-05-10",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-10",
+        "end": "2024-05-10",
+        "comment": "Erster Teil"
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-21",
+        "end": "2024-05-24",
+        "comment": "Zweiter Teil"
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-10",
+        "end": "2024-05-10",
+        "comment": "Erster Teil"
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-17",
+        "end": "2024-05-21",
+        "comment": "Zweiter Teil"
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "NI",
+        "state_long_name": "Niedersachsen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-10",
+        "end": "2024-05-10",
+        "comment": "Erster Teil"
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "NI",
+        "state_long_name": "Niedersachsen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-21",
+        "end": "2024-05-21",
+        "comment": "Zweiter Teil"
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "NW",
+        "state_long_name": "Nordrhein-Westfalen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-21",
+        "end": "2024-05-21",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "RP",
+        "state_long_name": "Rheinland-Pfalz",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-21",
+        "end": "2024-05-29",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-21",
+        "end": "2024-05-24",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-10",
+        "end": "2024-05-10",
+        "comment": "Erster Teil"
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-18",
+        "end": "2024-05-21",
+        "comment": "Zweiter Teil"
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-21",
+        "end": "2024-05-24",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-10",
+        "end": "2024-05-11",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "TH",
+        "state_long_name": "Thueringen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-10",
+        "end": "2024-05-10",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "BW",
+        "state_long_name": "Baden-Wuerttemberg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-25",
+        "end": "2024-09-07",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-29",
+        "end": "2024-09-09",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "BE",
+        "state_long_name": "Berlin",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-18",
+        "end": "2024-08-30",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-18",
+        "end": "2024-08-31",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-06-24",
+        "end": "2024-08-02",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-18",
+        "end": "2024-08-28",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "HE",
+        "state_long_name": "Hessen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-15",
+        "end": "2024-08-23",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-22",
+        "end": "2024-08-31",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "NI",
+        "state_long_name": "Niedersachsen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-06-24",
+        "end": "2024-08-02",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "NW",
+        "state_long_name": "Nordrhein-Westfalen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-08",
+        "end": "2024-08-20",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "RP",
+        "state_long_name": "Rheinland-Pfalz",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-15",
+        "end": "2024-08-23",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-15",
+        "end": "2024-08-23",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-06-20",
+        "end": "2024-08-02",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-06-24",
+        "end": "2024-08-03",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-22",
+        "end": "2024-08-31",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "TH",
+        "state_long_name": "Thueringen",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-06-20",
+        "end": "2024-07-31",
+        "comment": ""
+    }
+]

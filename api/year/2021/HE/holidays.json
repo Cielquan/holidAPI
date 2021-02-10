@@ -1,0 +1,42 @@
+[
+    {
+        "holiday": "herbst",
+        "state_abbrevation": "HE",
+        "state_long_name": "Hessen",
+        "year": 2021,
+        "school_year": "21/22",
+        "start": "2021-10-11",
+        "end": "2021-10-23",
+        "comment": ""
+    },
+    {
+        "holiday": "weihnachten",
+        "state_abbrevation": "HE",
+        "state_long_name": "Hessen",
+        "year": 2021,
+        "school_year": "21/22",
+        "start": "2021-12-23",
+        "end": "2021-01-08",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "HE",
+        "state_long_name": "Hessen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-04-06",
+        "end": "2021-04-16",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "HE",
+        "state_long_name": "Hessen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-07-19",
+        "end": "2021-08-27",
+        "comment": ""
+    }
+]

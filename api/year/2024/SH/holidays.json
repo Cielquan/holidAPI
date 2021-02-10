@@ -1,0 +1,32 @@
+[
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-04-02",
+        "end": "2024-04-19",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-10",
+        "end": "2024-05-11",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-22",
+        "end": "2024-08-31",
+        "comment": ""
+    }
+]

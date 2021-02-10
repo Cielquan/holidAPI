@@ -1,0 +1,62 @@
+[
+    {
+        "holiday": "herbst",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2021,
+        "school_year": "21/22",
+        "start": "2021-10-25",
+        "end": "2021-10-30",
+        "comment": ""
+    },
+    {
+        "holiday": "weihnachten",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2021,
+        "school_year": "21/22",
+        "start": "2021-12-22",
+        "end": "2021-01-08",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-02-08",
+        "end": "2021-02-13",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-03-29",
+        "end": "2021-04-03",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-05-10",
+        "end": "2021-05-22",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-07-22",
+        "end": "2021-09-01",
+        "comment": ""
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "holiday": "herbst",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2021,
+        "school_year": "21/22",
+        "start": "2021-10-18",
+        "end": "2021-10-30",
+        "comment": ""
+    },
+    {
+        "holiday": "weihnachten",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2021,
+        "school_year": "21/22",
+        "start": "2021-12-23",
+        "end": "2021-01-08",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-02-01",
+        "end": "2021-02-02",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-03-29",
+        "end": "2021-04-10",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-05-14",
+        "end": "2021-05-04",
+        "comment": "Erster Teil"
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-05-25",
+        "end": "2021-05-25",
+        "comment": "Zweiter Teil"
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-07-22",
+        "end": "2021-09-01",
+        "comment": ""
+    }
+]

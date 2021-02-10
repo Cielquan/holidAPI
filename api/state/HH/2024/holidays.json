@@ -1,0 +1,52 @@
+[
+    {
+        "holiday": "winter",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-02-02",
+        "end": "2024-02-02",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-03-18",
+        "end": "2024-03-28",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-10",
+        "end": "2024-05-10",
+        "comment": "Erster Teil"
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-05-21",
+        "end": "2024-05-24",
+        "comment": "Zweiter Teil"
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2024,
+        "school_year": "23/24",
+        "start": "2024-07-18",
+        "end": "2024-08-28",
+        "comment": ""
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "holiday": "herbst",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2020,
+        "school_year": "20/21",
+        "start": "2020-10-31",
+        "end": "2020-11-06",
+        "comment": ""
+    },
+    {
+        "holiday": "weihnachten",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2020,
+        "school_year": "20/21",
+        "start": "2020-12-23",
+        "end": "2020-01-09",
+        "comment": ""
+    }
+]

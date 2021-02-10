@@ -1,0 +1,62 @@
+[
+    {
+        "holiday": "herbst",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2021,
+        "school_year": "21/22",
+        "start": "2021-10-18",
+        "end": "2021-10-30",
+        "comment": ""
+    },
+    {
+        "holiday": "weihnachten",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2021,
+        "school_year": "21/22",
+        "start": "2021-12-23",
+        "end": "2021-01-01",
+        "comment": ""
+    },
+    {
+        "holiday": "winter",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-02-08",
+        "end": "2021-02-20",
+        "comment": ""
+    },
+    {
+        "holiday": "ostern_fruehjahr",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-04-02",
+        "end": "2021-04-10",
+        "comment": ""
+    },
+    {
+        "holiday": "himmelfahrt_pfingsten",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-05-14",
+        "end": "2021-05-14",
+        "comment": ""
+    },
+    {
+        "holiday": "sommer",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2021,
+        "school_year": "20/21",
+        "start": "2021-07-26",
+        "end": "2021-09-03",
+        "comment": ""
+    }
+]

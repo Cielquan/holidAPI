@@ -1,0 +1,22 @@
+[
+    {
+        "holiday": "herbst",
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2020,
+        "school_year": "20/21",
+        "start": "2020-10-12",
+        "end": "2020-10-23",
+        "comment": ""
+    },
+    {
+        "holiday": "weihnachten",
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2020,
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "end": "2020-12-31",
+        "comment": ""
+    }
+]
