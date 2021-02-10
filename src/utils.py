@@ -10,20 +10,21 @@
 from datetime import date, timedelta
 
 
-def calc_easter_sunday(year):
+def calc_easter_sunday(year: int) -> str:
     """Calculate the easter sunday for the given year.
 
     Calculation is based on Heiner Lichtenberg's correction of Gauss' Easter algorithm.
     Source: https://de.wikipedia.org/wiki/Gau%C3%9Fsche_Osterformel
 
     :param year: year to calculate easter sunday for.
+    :return: iso formatted date
     """
-    k = year // 100
-    m = 15 + (3 * k + 3) // 4 - (8 * k + 13) // 25
-    s = 2 - (3 * k + 3) // 4
-    a = year % 19
-    d = (19 * a + m) % 30
-    r = (d + a // 11) // 29
+    k = year // 100  # noqa: VNE001
+    m = 15 + (3 * k + 3) // 4 - (8 * k + 13) // 25  # noqa: VNE001
+    s = 2 - (3 * k + 3) // 4  # noqa: VNE001
+    a = year % 19  # noqa: VNE001
+    d = (19 * a + m) % 30  # noqa: VNE001
+    r = (d + a // 11) // 29  # noqa: VNE001
     og = 21 + d - r
     sz = 7 - (year + year // 4 + s) % 7
     oe = 7 - (og - sz) % 7
@@ -34,7 +35,7 @@ def calc_easter_sunday(year):
     return easter_date
 
 
-OS = calc_easter_sunday(date.today().year)
+OS = date.fromisoformat(calc_easter_sunday(date.today().year))
 pub_holidays = {
     "Neujahr": {"wer": "alle", "wann": "01.01."},
     "Heilige Drei Könige": {"wer": ["BW", "BY", "ST"], "wann": "06.01."},
