@@ -17,7 +17,7 @@ Dieses Repository stellt eine JSON-API für die deutschen Ferien dar.
 Nutzung
 =======
 
-Der ``Basislink`` ist: `<https://raw.githubusercontent.com/Cielquan/holidAPI/main/api/>`__
+Der ``Basislink`` ist: `<https://cielquan.github.io/holidAPI/api/>`__
 In den verschiedenen Ordnern sind ``holiday.json`` Dateien, die die Feriendaten halten.
 Jahreszahlen müssen 4-stellig sein.
 
