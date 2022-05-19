@@ -18,17 +18,17 @@ Nutzung
 =======
 
 Der ``Basislink`` ist: `<https://cielquan.github.io/holidAPI/api/>`__
-In den verschiedenen Ordnern sind ``holiday.json`` Dateien, die die Feriendaten halten.
+In den verschiedenen Ordnern sind ``holidays.json`` Dateien, die die Feriendaten halten.
 Jahreszahlen müssen 4-stellig sein.
 
 Bundesländer werden als Zweibuchstabenkürzel angegeben.
 Siehe `Wikipedia für Kürzel <https://de.wikipedia.org/wiki/Land_(Deutschland)#Rahmendaten_der_L%C3%A4nder>`__
 
-- ``Basislink``/``holiday.json``: Alle Ferien, die verfügbar sind.
-- ``Basislink``/``year``/``<JAHR>``/``holiday.json``: Alle Ferien aus dem angegeben Jahr.
-- ``Basislink``/``year``/``<JAHR>``/``state``/``<BUNDESLAND>``/``holiday.json``: Alle Ferien aus dem angegeben Jahr für das angegebe Bundesland.
-- ``Basislink``/``state``/``<BUNDESLAND>``/``holiday.json``: Alle Ferien für das angegebe Bundesland.
-- ``Basislink``/``state``/``<BUNDESLAND>``/``year``/``<JAHR>``/``holiday.json``: Alle Ferien für das angegebe Bundesland aus dem angegeben Jahr.
+- ``Basislink``/``holidays.json``: Alle Ferien, die verfügbar sind.
+- ``Basislink``/``year``/``<JAHR>``/``holidays.json``: Alle Ferien aus dem angegeben Jahr.
+- ``Basislink``/``year``/``<JAHR>``/``state``/``<BUNDESLAND>``/``holidays.json``: Alle Ferien aus dem angegeben Jahr für das angegebe Bundesland.
+- ``Basislink``/``state``/``<BUNDESLAND>``/``holidays.json``: Alle Ferien für das angegebe Bundesland.
+- ``Basislink``/``state``/``<BUNDESLAND>``/``year``/``<JAHR>``/``holidays.json``: Alle Ferien für das angegebe Bundesland aus dem angegeben Jahr.
 
 
 .. ############################### LINKS FOR BADGES ###############################
