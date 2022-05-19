@@ -7,7 +7,7 @@ from typing import Generator, List
 from models import Holiday, Session, State, db
 
 
-BASE_DIR = Path("api")
+BASE_DIR = Path() / "docs" / "api"
 
 
 # UTILS
