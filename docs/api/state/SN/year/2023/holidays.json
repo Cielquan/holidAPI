@@ -1,72 +1,72 @@
 [
     {
+        "comment": "",
+        "end": "2023-02-24",
         "holiday": "winter",
-        "state_abbrevation": "SN",
-        "state_long_name": "Sachsen",
-        "year": 2023,
         "school_year": "22/23",
         "start": "2023-02-13",
-        "end": "2023-02-24",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "SN",
         "state_long_name": "Sachsen",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-04-15",
+        "holiday": "ostern_fruehjahr",
         "school_year": "22/23",
         "start": "2023-04-07",
-        "end": "2023-04-15",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "SN",
         "state_long_name": "Sachsen",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-05-19",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "22/23",
         "start": "2023-05-19",
-        "end": "2023-05-19",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "SN",
         "state_long_name": "Sachsen",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-08-18",
+        "holiday": "sommer",
         "school_year": "22/23",
         "start": "2023-07-10",
-        "end": "2023-08-18",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
         "state_abbrevation": "SN",
         "state_long_name": "Sachsen",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "Erster Teil",
+        "end": "2023-10-14",
+        "holiday": "herbst",
         "school_year": "23/24",
         "start": "2023-10-02",
-        "end": "2023-10-14",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "herbst",
         "state_abbrevation": "SN",
         "state_long_name": "Sachsen",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2023-10-30",
+        "holiday": "herbst",
         "school_year": "23/24",
         "start": "2023-10-30",
-        "end": "2023-10-30",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "SN",
         "state_long_name": "Sachsen",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2024-01-02",
+        "holiday": "weihnachten",
         "school_year": "23/24",
         "start": "2023-12-23",
-        "end": "2023-01-02",
-        "comment": ""
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2023
     }
 ]

@@ -1,52 +1,52 @@
 [
     {
-        "holiday": "herbst",
-        "state_abbrevation": "SH",
-        "state_long_name": "Schleswig-Holstein",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-10-04",
-        "end": "2021-10-16",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
-        "state_abbrevation": "SH",
-        "state_long_name": "Schleswig-Holstein",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-12-23",
-        "end": "2021-01-08",
-        "comment": ""
-    },
-    {
+        "comment": "",
+        "end": "2021-04-16",
         "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "SH",
-        "state_long_name": "Schleswig-Holstein",
-        "year": 2021,
         "school_year": "20/21",
         "start": "2021-04-01",
-        "end": "2021-04-16",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "SH",
         "state_long_name": "Schleswig-Holstein",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-05-15",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "20/21",
         "start": "2021-05-14",
-        "end": "2021-05-15",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "SH",
         "state_long_name": "Schleswig-Holstein",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-07-31",
+        "holiday": "sommer",
         "school_year": "20/21",
         "start": "2021-06-21",
-        "end": "2021-07-31",
-        "comment": ""
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-10-16",
+        "holiday": "herbst",
+        "school_year": "21/22",
+        "start": "2021-10-04",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2022-01-08",
+        "holiday": "weihnachten",
+        "school_year": "21/22",
+        "start": "2021-12-23",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2021
     }
 ]

@@ -1,42 +1,42 @@
 [
     {
+        "comment": "",
+        "end": "2024-02-02",
         "holiday": "winter",
-        "state_abbrevation": "HB",
-        "state_long_name": "Bremen",
-        "year": 2024,
         "school_year": "23/24",
         "start": "2024-02-01",
-        "end": "2024-02-02",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "HB",
         "state_long_name": "Bremen",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-03-28",
+        "holiday": "ostern_fruehjahr",
         "school_year": "23/24",
         "start": "2024-03-18",
-        "end": "2024-03-28",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "HB",
         "state_long_name": "Bremen",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-05-10",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "23/24",
         "start": "2024-05-10",
-        "end": "2024-05-10",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "HB",
         "state_long_name": "Bremen",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-08-02",
+        "holiday": "sommer",
         "school_year": "23/24",
         "start": "2024-06-24",
-        "end": "2024-08-02",
-        "comment": ""
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2024
     }
 ]

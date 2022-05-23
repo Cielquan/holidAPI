@@ -1,62 +1,62 @@
 [
     {
-        "holiday": "herbst",
-        "state_abbrevation": "SL",
-        "state_long_name": "Saarland",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-10-18",
-        "end": "2021-10-29",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
-        "state_abbrevation": "SL",
-        "state_long_name": "Saarland",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-12-23",
-        "end": "2021-01-03",
-        "comment": ""
-    },
-    {
+        "comment": "",
+        "end": "2021-02-19",
         "holiday": "winter",
-        "state_abbrevation": "SL",
-        "state_long_name": "Saarland",
-        "year": 2021,
         "school_year": "20/21",
         "start": "2021-02-15",
-        "end": "2021-02-19",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "SL",
         "state_long_name": "Saarland",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-04-07",
+        "holiday": "ostern_fruehjahr",
         "school_year": "20/21",
         "start": "2021-03-29",
-        "end": "2021-04-07",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "SL",
         "state_long_name": "Saarland",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-05-28",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "20/21",
         "start": "2021-05-25",
-        "end": "2021-05-28",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "SL",
         "state_long_name": "Saarland",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-08-27",
+        "holiday": "sommer",
         "school_year": "20/21",
         "start": "2021-07-19",
-        "end": "2021-08-27",
-        "comment": ""
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-10-29",
+        "holiday": "herbst",
+        "school_year": "21/22",
+        "start": "2021-10-18",
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2022-01-03",
+        "holiday": "weihnachten",
+        "school_year": "21/22",
+        "start": "2021-12-23",
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2021
     }
 ]

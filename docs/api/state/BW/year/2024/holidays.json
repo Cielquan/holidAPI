@@ -1,32 +1,32 @@
 [
     {
+        "comment": "",
+        "end": "2024-04-05",
         "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "BW",
-        "state_long_name": "Baden-Wuerttemberg",
-        "year": 2024,
         "school_year": "23/24",
         "start": "2024-03-23",
-        "end": "2024-04-05",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "BW",
         "state_long_name": "Baden-Wuerttemberg",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-05-31",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "23/24",
         "start": "2024-05-21",
-        "end": "2024-05-31",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "BW",
         "state_long_name": "Baden-Wuerttemberg",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-09-07",
+        "holiday": "sommer",
         "school_year": "23/24",
         "start": "2024-07-25",
-        "end": "2024-09-07",
-        "comment": ""
+        "state_abbrevation": "BW",
+        "state_long_name": "Baden-Wuerttemberg",
+        "year": 2024
     }
 ]

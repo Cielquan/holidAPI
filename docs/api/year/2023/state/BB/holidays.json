@@ -1,52 +1,52 @@
 [
     {
+        "comment": "",
+        "end": "2023-02-03",
         "holiday": "winter",
-        "state_abbrevation": "BB",
-        "state_long_name": "Brandenburg",
-        "year": 2023,
         "school_year": "22/23",
         "start": "2023-01-30",
-        "end": "2023-02-03",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "BB",
         "state_long_name": "Brandenburg",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-04-14",
+        "holiday": "ostern_fruehjahr",
         "school_year": "22/23",
         "start": "2023-04-03",
-        "end": "2023-04-14",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "BB",
         "state_long_name": "Brandenburg",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-08-26",
+        "holiday": "sommer",
         "school_year": "22/23",
         "start": "2023-07-13",
-        "end": "2023-08-26",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
         "state_abbrevation": "BB",
         "state_long_name": "Brandenburg",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-11-04",
+        "holiday": "herbst",
         "school_year": "23/24",
         "start": "2023-10-23",
-        "end": "2023-11-04",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "BB",
         "state_long_name": "Brandenburg",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2024-01-05",
+        "holiday": "weihnachten",
         "school_year": "23/24",
         "start": "2023-12-23",
-        "end": "2023-01-05",
-        "comment": ""
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2023
     }
 ]

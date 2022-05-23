@@ -1,22 +1,22 @@
 [
     {
+        "comment": "",
+        "end": "2020-10-24",
         "holiday": "herbst",
-        "state_abbrevation": "BB",
-        "state_long_name": "Brandenburg",
-        "year": 2020,
         "school_year": "20/21",
         "start": "2020-10-12",
-        "end": "2020-10-24",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "BB",
         "state_long_name": "Brandenburg",
-        "year": 2020,
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2021-01-02",
+        "holiday": "weihnachten",
         "school_year": "20/21",
         "start": "2020-12-21",
-        "end": "2020-01-02",
-        "comment": ""
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2020
     }
 ]

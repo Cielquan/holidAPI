@@ -1,62 +1,62 @@
 [
     {
+        "comment": "",
+        "end": "2023-02-11",
         "holiday": "winter",
-        "state_abbrevation": "ST",
-        "state_long_name": "Sachsen-Anhalt",
-        "year": 2023,
         "school_year": "22/23",
         "start": "2023-02-06",
-        "end": "2023-02-11",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "ST",
         "state_long_name": "Sachsen-Anhalt",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-04-08",
+        "holiday": "ostern_fruehjahr",
         "school_year": "22/23",
         "start": "2023-04-03",
-        "end": "2023-04-08",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "ST",
         "state_long_name": "Sachsen-Anhalt",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-05-19",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "22/23",
         "start": "2023-05-15",
-        "end": "2023-05-19",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "ST",
         "state_long_name": "Sachsen-Anhalt",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-08-16",
+        "holiday": "sommer",
         "school_year": "22/23",
         "start": "2023-07-06",
-        "end": "2023-08-16",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
         "state_abbrevation": "ST",
         "state_long_name": "Sachsen-Anhalt",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-10-30",
+        "holiday": "herbst",
         "school_year": "23/24",
         "start": "2023-10-16",
-        "end": "2023-10-30",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "ST",
         "state_long_name": "Sachsen-Anhalt",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2024-01-03",
+        "holiday": "weihnachten",
         "school_year": "23/24",
         "start": "2023-12-21",
-        "end": "2023-01-03",
-        "comment": ""
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2023
     }
 ]

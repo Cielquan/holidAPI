@@ -1,72 +1,72 @@
 [
     {
-        "holiday": "herbst",
-        "state_abbrevation": "NI",
-        "state_long_name": "Niedersachsen",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-10-18",
-        "end": "2021-10-29",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
-        "state_abbrevation": "NI",
-        "state_long_name": "Niedersachsen",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-12-23",
-        "end": "2021-01-07",
-        "comment": ""
-    },
-    {
+        "comment": "",
+        "end": "2021-02-02",
         "holiday": "winter",
-        "state_abbrevation": "NI",
-        "state_long_name": "Niedersachsen",
-        "year": 2021,
         "school_year": "20/21",
         "start": "2021-02-01",
-        "end": "2021-02-02",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "NI",
         "state_long_name": "Niedersachsen",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-04-09",
+        "holiday": "ostern_fruehjahr",
         "school_year": "20/21",
         "start": "2021-03-29",
-        "end": "2021-04-09",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "NI",
         "state_long_name": "Niedersachsen",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "Erster Teil",
+        "end": "2021-05-14",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "20/21",
         "start": "2021-05-14",
-        "end": "2021-05-14",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "NI",
         "state_long_name": "Niedersachsen",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2021-05-25",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "20/21",
         "start": "2021-05-25",
-        "end": "2021-05-25",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "NI",
         "state_long_name": "Niedersachsen",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-09-01",
+        "holiday": "sommer",
         "school_year": "20/21",
         "start": "2021-07-22",
-        "end": "2021-09-01",
-        "comment": ""
+        "state_abbrevation": "NI",
+        "state_long_name": "Niedersachsen",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-10-29",
+        "holiday": "herbst",
+        "school_year": "21/22",
+        "start": "2021-10-18",
+        "state_abbrevation": "NI",
+        "state_long_name": "Niedersachsen",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2022-01-07",
+        "holiday": "weihnachten",
+        "school_year": "21/22",
+        "start": "2021-12-23",
+        "state_abbrevation": "NI",
+        "state_long_name": "Niedersachsen",
+        "year": 2021
     }
 ]

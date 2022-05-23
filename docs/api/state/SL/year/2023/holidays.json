@@ -1,62 +1,62 @@
 [
     {
+        "comment": "",
+        "end": "2023-02-24",
         "holiday": "winter",
-        "state_abbrevation": "SL",
-        "state_long_name": "Saarland",
-        "year": 2023,
         "school_year": "22/23",
         "start": "2023-02-20",
-        "end": "2023-02-24",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "SL",
         "state_long_name": "Saarland",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-04-12",
+        "holiday": "ostern_fruehjahr",
         "school_year": "22/23",
         "start": "2023-04-03",
-        "end": "2023-04-12",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "SL",
         "state_long_name": "Saarland",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-06-02",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "22/23",
         "start": "2023-05-30",
-        "end": "2023-06-02",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "SL",
         "state_long_name": "Saarland",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-09-01",
+        "holiday": "sommer",
         "school_year": "22/23",
         "start": "2023-07-24",
-        "end": "2023-09-01",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
         "state_abbrevation": "SL",
         "state_long_name": "Saarland",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-11-03",
+        "holiday": "herbst",
         "school_year": "23/24",
         "start": "2023-10-23",
-        "end": "2023-11-03",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "SL",
         "state_long_name": "Saarland",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2024-01-02",
+        "holiday": "weihnachten",
         "school_year": "23/24",
         "start": "2023-12-21",
-        "end": "2023-01-02",
-        "comment": ""
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2023
     }
 ]

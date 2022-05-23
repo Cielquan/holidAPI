@@ -1,72 +1,72 @@
 [
     {
-        "holiday": "herbst",
-        "state_abbrevation": "BW",
-        "state_long_name": "Baden-Wuerttemberg",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-10-31",
-        "end": "2021-10-31",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "BW",
-        "state_long_name": "Baden-Wuerttemberg",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-11-02",
-        "end": "2021-11-06",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "weihnachten",
-        "state_abbrevation": "BW",
-        "state_long_name": "Baden-Wuerttemberg",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-12-23",
-        "end": "2021-01-08",
-        "comment": ""
-    },
-    {
+        "comment": "Erster Teil",
+        "end": "2021-04-01",
         "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "BW",
-        "state_long_name": "Baden-Wuerttemberg",
-        "year": 2021,
         "school_year": "20/21",
         "start": "2021-04-01",
-        "end": "2021-04-01",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "BW",
         "state_long_name": "Baden-Wuerttemberg",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2021-04-10",
+        "holiday": "ostern_fruehjahr",
         "school_year": "20/21",
         "start": "2021-04-06",
-        "end": "2021-04-10",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "BW",
         "state_long_name": "Baden-Wuerttemberg",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-06-05",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "20/21",
         "start": "2021-05-25",
-        "end": "2021-06-05",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "BW",
         "state_long_name": "Baden-Wuerttemberg",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-09-11",
+        "holiday": "sommer",
         "school_year": "20/21",
         "start": "2021-07-29",
-        "end": "2021-09-11",
-        "comment": ""
+        "state_abbrevation": "BW",
+        "state_long_name": "Baden-Wuerttemberg",
+        "year": 2021
+    },
+    {
+        "comment": "Erster Teil",
+        "end": "2021-10-31",
+        "holiday": "herbst",
+        "school_year": "21/22",
+        "start": "2021-10-31",
+        "state_abbrevation": "BW",
+        "state_long_name": "Baden-Wuerttemberg",
+        "year": 2021
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2021-11-06",
+        "holiday": "herbst",
+        "school_year": "21/22",
+        "start": "2021-11-02",
+        "state_abbrevation": "BW",
+        "state_long_name": "Baden-Wuerttemberg",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2022-01-08",
+        "holiday": "weihnachten",
+        "school_year": "21/22",
+        "start": "2021-12-23",
+        "state_abbrevation": "BW",
+        "state_long_name": "Baden-Wuerttemberg",
+        "year": 2021
     }
 ]
