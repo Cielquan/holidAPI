@@ -12,6 +12,7 @@ holidAPI
 
 
 Dieses Repository stellt eine JSON-API für die deutschen Ferien dar.
+Die Ferien-Daten beginnen mit dem Schuljahr 20/21.
 
 
 Nutzung
