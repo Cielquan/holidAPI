@@ -1,62 +1,62 @@
 [
     {
-        "holiday": "winter",
-        "state_abbrevation": "TH",
-        "state_long_name": "Thueringen",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-02-12",
-        "end": "2022-02-19",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "TH",
-        "state_long_name": "Thueringen",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-04-11",
-        "end": "2022-04-23",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
-        "state_abbrevation": "TH",
-        "state_long_name": "Thueringen",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-05-27",
-        "end": "2022-05-27",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
-        "state_abbrevation": "TH",
-        "state_long_name": "Thueringen",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-07-18",
-        "end": "2022-08-27",
-        "comment": ""
-    },
-    {
+        "comment": "",
+        "end": "2022-10-29",
         "holiday": "herbst",
-        "state_abbrevation": "TH",
-        "state_long_name": "Thueringen",
-        "year": 2022,
         "school_year": "22/23",
         "start": "2022-10-17",
-        "end": "2022-10-29",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "TH",
         "state_long_name": "Thueringen",
-        "year": 2022,
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-01-03",
+        "holiday": "weihnachten",
         "school_year": "22/23",
         "start": "2022-12-22",
-        "end": "2022-01-03",
-        "comment": ""
+        "state_abbrevation": "TH",
+        "state_long_name": "Thueringen",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-02-19",
+        "holiday": "winter",
+        "school_year": "21/22",
+        "start": "2022-02-12",
+        "state_abbrevation": "TH",
+        "state_long_name": "Thueringen",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-04-23",
+        "holiday": "ostern_fruehjahr",
+        "school_year": "21/22",
+        "start": "2022-04-11",
+        "state_abbrevation": "TH",
+        "state_long_name": "Thueringen",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-05-27",
+        "holiday": "himmelfahrt_pfingsten",
+        "school_year": "21/22",
+        "start": "2022-05-27",
+        "state_abbrevation": "TH",
+        "state_long_name": "Thueringen",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-08-27",
+        "holiday": "sommer",
+        "school_year": "21/22",
+        "start": "2022-07-18",
+        "state_abbrevation": "TH",
+        "state_long_name": "Thueringen",
+        "year": 2022
     }
 ]

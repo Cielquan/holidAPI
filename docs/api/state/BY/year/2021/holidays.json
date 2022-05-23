@@ -1,62 +1,62 @@
 [
     {
-        "holiday": "herbst",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-11-02",
-        "end": "2021-11-05",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-12-24",
-        "end": "2021-01-08",
-        "comment": ""
-    },
-    {
+        "comment": "Erster Teil",
+        "end": "2021-02-19",
         "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2021,
         "school_year": "20/21",
         "start": "2021-02-15",
-        "end": "2021-02-19",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2021-04-10",
+        "holiday": "ostern_fruehjahr",
         "school_year": "20/21",
         "start": "2021-03-29",
-        "end": "2021-04-10",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-06-04",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "20/21",
         "start": "2021-05-25",
-        "end": "2021-06-04",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-09-13",
+        "holiday": "sommer",
         "school_year": "20/21",
         "start": "2021-07-30",
-        "end": "2021-09-13",
-        "comment": ""
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-11-05",
+        "holiday": "herbst",
+        "school_year": "21/22",
+        "start": "2021-11-02",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-01-08",
+        "holiday": "weihnachten",
+        "school_year": "21/22",
+        "start": "2021-12-24",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2021
     }
 ]

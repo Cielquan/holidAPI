@@ -1,52 +1,52 @@
 [
     {
-        "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "SH",
-        "state_long_name": "Schleswig-Holstein",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-04-04",
-        "end": "2022-04-16",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
-        "state_abbrevation": "SH",
-        "state_long_name": "Schleswig-Holstein",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-05-27",
-        "end": "2022-05-28",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
-        "state_abbrevation": "SH",
-        "state_long_name": "Schleswig-Holstein",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-07-04",
-        "end": "2022-08-13",
-        "comment": ""
-    },
-    {
+        "comment": "",
+        "end": "2022-10-21",
         "holiday": "herbst",
-        "state_abbrevation": "SH",
-        "state_long_name": "Schleswig-Holstein",
-        "year": 2022,
         "school_year": "22/23",
         "start": "2022-10-10",
-        "end": "2022-10-21",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "SH",
         "state_long_name": "Schleswig-Holstein",
-        "year": 2022,
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-01-07",
+        "holiday": "weihnachten",
         "school_year": "22/23",
         "start": "2022-12-23",
-        "end": "2022-01-07",
-        "comment": ""
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-04-16",
+        "holiday": "ostern_fruehjahr",
+        "school_year": "21/22",
+        "start": "2022-04-04",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-05-28",
+        "holiday": "himmelfahrt_pfingsten",
+        "school_year": "21/22",
+        "start": "2022-05-27",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-08-13",
+        "holiday": "sommer",
+        "school_year": "21/22",
+        "start": "2022-07-04",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2022
     }
 ]

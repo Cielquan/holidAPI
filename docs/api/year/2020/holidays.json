@@ -1,332 +1,332 @@
 [
     {
+        "comment": "",
+        "end": "2020-10-31",
         "holiday": "herbst",
-        "state_abbrevation": "BW",
-        "state_long_name": "Baden-Wuerttemberg",
-        "year": 2020,
         "school_year": "20/21",
         "start": "2020-10-26",
-        "end": "2020-10-31",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-31",
-        "end": "2020-11-06",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "BE",
-        "state_long_name": "Berlin",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-12",
-        "end": "2020-10-24",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "BB",
-        "state_long_name": "Brandenburg",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-12",
-        "end": "2020-10-24",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "HB",
-        "state_long_name": "Bremen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-12",
-        "end": "2020-10-24",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "HH",
-        "state_long_name": "Hamburg",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-05",
-        "end": "2020-10-16",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "HE",
-        "state_long_name": "Hessen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-05",
-        "end": "2020-10-17",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "MV",
-        "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-05",
-        "end": "2020-10-10",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "MV",
-        "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-11-02",
-        "end": "2020-11-03",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "NI",
-        "state_long_name": "Niedersachsen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-12",
-        "end": "2020-10-23",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "NW",
-        "state_long_name": "Nordrhein-Westfalen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-12",
-        "end": "2020-10-24",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "RP",
-        "state_long_name": "Rheinland-Pfalz",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-12",
-        "end": "2020-10-23",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "SL",
-        "state_long_name": "Saarland",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-12",
-        "end": "2020-10-23",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "SN",
-        "state_long_name": "Sachsen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-19",
-        "end": "2020-10-31",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "ST",
-        "state_long_name": "Sachsen-Anhalt",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-19",
-        "end": "2020-10-24",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "SH",
-        "state_long_name": "Schleswig-Holstein",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-05",
-        "end": "2020-10-17",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "TH",
-        "state_long_name": "Thueringen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-10-17",
-        "end": "2020-10-30",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "BW",
         "state_long_name": "Baden-Wuerttemberg",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-23",
-        "end": "2020-01-09",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-11-06",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-31",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-23",
-        "end": "2020-01-09",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-24",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-12",
         "state_abbrevation": "BE",
         "state_long_name": "Berlin",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-21",
-        "end": "2020-01-02",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-24",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-12",
         "state_abbrevation": "BB",
         "state_long_name": "Brandenburg",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-21",
-        "end": "2020-01-02",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-24",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-12",
         "state_abbrevation": "HB",
         "state_long_name": "Bremen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-23",
-        "end": "2020-01-08",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-16",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-05",
         "state_abbrevation": "HH",
         "state_long_name": "Hamburg",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-21",
-        "end": "2020-01-04",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-17",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-05",
         "state_abbrevation": "HE",
         "state_long_name": "Hessen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-21",
-        "end": "2020-01-09",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "Erster Teil",
+        "end": "2020-10-10",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-05",
         "state_abbrevation": "MV",
         "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-21",
-        "end": "2020-01-02",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "Zweiter Teil",
+        "end": "2020-11-03",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-11-02",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-10-23",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-12",
         "state_abbrevation": "NI",
         "state_long_name": "Niedersachsen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-23",
-        "end": "2020-01-08",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-24",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-12",
         "state_abbrevation": "NW",
         "state_long_name": "Nordrhein-Westfalen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-23",
-        "end": "2020-01-06",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-23",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-12",
         "state_abbrevation": "RP",
         "state_long_name": "Rheinland-Pfalz",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-21",
-        "end": "2020-12-31",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-23",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-12",
         "state_abbrevation": "SL",
         "state_long_name": "Saarland",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-21",
-        "end": "2020-12-31",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-31",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-19",
         "state_abbrevation": "SN",
         "state_long_name": "Sachsen",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-23",
-        "end": "2020-01-02",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-24",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-19",
         "state_abbrevation": "ST",
         "state_long_name": "Sachsen-Anhalt",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-21",
-        "end": "2020-01-05",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-17",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-05",
         "state_abbrevation": "SH",
         "state_long_name": "Schleswig-Holstein",
-        "year": 2020,
-        "school_year": "20/21",
-        "start": "2020-12-21",
-        "end": "2020-01-06",
-        "comment": ""
+        "year": 2020
     },
     {
-        "holiday": "weihnachten",
+        "comment": "",
+        "end": "2020-10-30",
+        "holiday": "herbst",
+        "school_year": "20/21",
+        "start": "2020-10-17",
         "state_abbrevation": "TH",
         "state_long_name": "Thueringen",
-        "year": 2020,
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-09",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-23",
+        "state_abbrevation": "BW",
+        "state_long_name": "Baden-Wuerttemberg",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-09",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-23",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-02",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "state_abbrevation": "BE",
+        "state_long_name": "Berlin",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-02",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-08",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-23",
+        "state_abbrevation": "HB",
+        "state_long_name": "Bremen",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-04",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-09",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "state_abbrevation": "HE",
+        "state_long_name": "Hessen",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-02",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-08",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-23",
+        "state_abbrevation": "NI",
+        "state_long_name": "Niedersachsen",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-06",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-23",
+        "state_abbrevation": "NW",
+        "state_long_name": "Nordrhein-Westfalen",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-12-31",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "state_abbrevation": "RP",
+        "state_long_name": "Rheinland-Pfalz",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-12-31",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "state_abbrevation": "SL",
+        "state_long_name": "Saarland",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-02",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-23",
+        "state_abbrevation": "SN",
+        "state_long_name": "Sachsen",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-05",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "state_abbrevation": "ST",
+        "state_long_name": "Sachsen-Anhalt",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-06",
+        "holiday": "weihnachten",
+        "school_year": "20/21",
+        "start": "2020-12-21",
+        "state_abbrevation": "SH",
+        "state_long_name": "Schleswig-Holstein",
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-02",
+        "holiday": "weihnachten",
         "school_year": "20/21",
         "start": "2020-10-23",
-        "end": "2020-01-02",
-        "comment": ""
+        "state_abbrevation": "TH",
+        "state_long_name": "Thueringen",
+        "year": 2020
     }
 ]

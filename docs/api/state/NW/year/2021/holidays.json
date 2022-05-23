@@ -1,52 +1,52 @@
 [
     {
-        "holiday": "herbst",
-        "state_abbrevation": "NW",
-        "state_long_name": "Nordrhein-Westfalen",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-10-11",
-        "end": "2021-10-23",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
-        "state_abbrevation": "NW",
-        "state_long_name": "Nordrhein-Westfalen",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-12-24",
-        "end": "2021-01-08",
-        "comment": ""
-    },
-    {
+        "comment": "",
+        "end": "2021-04-10",
         "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "NW",
-        "state_long_name": "Nordrhein-Westfalen",
-        "year": 2021,
         "school_year": "20/21",
         "start": "2021-03-29",
-        "end": "2021-04-10",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "NW",
         "state_long_name": "Nordrhein-Westfalen",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-05-25",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "20/21",
         "start": "2021-05-25",
-        "end": "2021-05-25",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "NW",
         "state_long_name": "Nordrhein-Westfalen",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-08-17",
+        "holiday": "sommer",
         "school_year": "20/21",
         "start": "2021-07-05",
-        "end": "2021-08-17",
-        "comment": ""
+        "state_abbrevation": "NW",
+        "state_long_name": "Nordrhein-Westfalen",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-10-23",
+        "holiday": "herbst",
+        "school_year": "21/22",
+        "start": "2021-10-11",
+        "state_abbrevation": "NW",
+        "state_long_name": "Nordrhein-Westfalen",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-01-08",
+        "holiday": "weihnachten",
+        "school_year": "21/22",
+        "start": "2021-12-24",
+        "state_abbrevation": "NW",
+        "state_long_name": "Nordrhein-Westfalen",
+        "year": 2021
     }
 ]

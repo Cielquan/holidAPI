@@ -1,22 +1,22 @@
 [
     {
+        "comment": "",
+        "end": "2020-10-23",
         "holiday": "herbst",
-        "state_abbrevation": "NI",
-        "state_long_name": "Niedersachsen",
-        "year": 2020,
         "school_year": "20/21",
         "start": "2020-10-12",
-        "end": "2020-10-23",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "NI",
         "state_long_name": "Niedersachsen",
-        "year": 2020,
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-08",
+        "holiday": "weihnachten",
         "school_year": "20/21",
         "start": "2020-12-23",
-        "end": "2020-01-08",
-        "comment": ""
+        "state_abbrevation": "NI",
+        "state_long_name": "Niedersachsen",
+        "year": 2020
     }
 ]

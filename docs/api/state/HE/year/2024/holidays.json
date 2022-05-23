@@ -1,22 +1,22 @@
 [
     {
+        "comment": "",
+        "end": "2024-04-13",
         "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "HE",
-        "state_long_name": "Hessen",
-        "year": 2024,
         "school_year": "23/24",
         "start": "2024-03-25",
-        "end": "2024-04-13",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "HE",
         "state_long_name": "Hessen",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-08-23",
+        "holiday": "sommer",
         "school_year": "23/24",
         "start": "2024-07-15",
-        "end": "2024-08-23",
-        "comment": ""
+        "state_abbrevation": "HE",
+        "state_long_name": "Hessen",
+        "year": 2024
     }
 ]

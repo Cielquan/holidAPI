@@ -1,22 +1,22 @@
 [
     {
+        "comment": "",
+        "end": "2020-10-31",
         "holiday": "herbst",
-        "state_abbrevation": "BW",
-        "state_long_name": "Baden-Wuerttemberg",
-        "year": 2020,
         "school_year": "20/21",
         "start": "2020-10-26",
-        "end": "2020-10-31",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "BW",
         "state_long_name": "Baden-Wuerttemberg",
-        "year": 2020,
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-09",
+        "holiday": "weihnachten",
         "school_year": "20/21",
         "start": "2020-12-23",
-        "end": "2020-01-09",
-        "comment": ""
+        "state_abbrevation": "BW",
+        "state_long_name": "Baden-Wuerttemberg",
+        "year": 2020
     }
 ]

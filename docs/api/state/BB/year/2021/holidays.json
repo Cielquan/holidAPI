@@ -1,52 +1,52 @@
 [
     {
-        "holiday": "herbst",
-        "state_abbrevation": "BB",
-        "state_long_name": "Brandenburg",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-10-11",
-        "end": "2021-10-23",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
-        "state_abbrevation": "BB",
-        "state_long_name": "Brandenburg",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-12-23",
-        "end": "2021-12-31",
-        "comment": ""
-    },
-    {
+        "comment": "",
+        "end": "2021-02-06",
         "holiday": "winter",
-        "state_abbrevation": "BB",
-        "state_long_name": "Brandenburg",
-        "year": 2021,
         "school_year": "20/21",
         "start": "2021-02-01",
-        "end": "2021-02-06",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "BB",
         "state_long_name": "Brandenburg",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-04-09",
+        "holiday": "ostern_fruehjahr",
         "school_year": "20/21",
         "start": "2021-03-29",
-        "end": "2021-04-09",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "BB",
         "state_long_name": "Brandenburg",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-08-07",
+        "holiday": "sommer",
         "school_year": "20/21",
         "start": "2021-06-24",
-        "end": "2021-08-07",
-        "comment": ""
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-10-23",
+        "holiday": "herbst",
+        "school_year": "21/22",
+        "start": "2021-10-11",
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-12-31",
+        "holiday": "weihnachten",
+        "school_year": "21/22",
+        "start": "2021-12-23",
+        "state_abbrevation": "BB",
+        "state_long_name": "Brandenburg",
+        "year": 2021
     }
 ]

@@ -1,42 +1,42 @@
 [
     {
+        "comment": "",
+        "end": "2023-04-22",
         "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "HE",
-        "state_long_name": "Hessen",
-        "year": 2023,
         "school_year": "22/23",
         "start": "2023-04-03",
-        "end": "2023-04-22",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "HE",
         "state_long_name": "Hessen",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-09-01",
+        "holiday": "sommer",
         "school_year": "22/23",
         "start": "2023-07-24",
-        "end": "2023-09-01",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
         "state_abbrevation": "HE",
         "state_long_name": "Hessen",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-10-28",
+        "holiday": "herbst",
         "school_year": "23/24",
         "start": "2023-10-23",
-        "end": "2023-10-28",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "HE",
         "state_long_name": "Hessen",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-01-13",
+        "holiday": "weihnachten",
         "school_year": "23/24",
         "start": "2023-12-27",
-        "end": "2023-01-13",
-        "comment": ""
+        "state_abbrevation": "HE",
+        "state_long_name": "Hessen",
+        "year": 2023
     }
 ]

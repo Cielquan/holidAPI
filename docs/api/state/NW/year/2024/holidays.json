@@ -1,32 +1,32 @@
 [
     {
+        "comment": "",
+        "end": "2024-04-06",
         "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "NW",
-        "state_long_name": "Nordrhein-Westfalen",
-        "year": 2024,
         "school_year": "23/24",
         "start": "2024-03-25",
-        "end": "2024-04-06",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "NW",
         "state_long_name": "Nordrhein-Westfalen",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-05-21",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "23/24",
         "start": "2024-05-21",
-        "end": "2024-05-21",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "NW",
         "state_long_name": "Nordrhein-Westfalen",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-08-20",
+        "holiday": "sommer",
         "school_year": "23/24",
         "start": "2024-07-08",
-        "end": "2024-08-20",
-        "comment": ""
+        "state_abbrevation": "NW",
+        "state_long_name": "Nordrhein-Westfalen",
+        "year": 2024
     }
 ]

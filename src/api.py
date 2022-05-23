@@ -20,7 +20,7 @@ def query_to_json(query: List) -> str:
     :return: json string of given query
     """
     all_data = [h.to_dict(json_friendly=True) for h in query]
-    return json.dumps(all_data, indent=4)
+    return json.dumps(all_data, indent=4, sort_keys=True)
 
 
 def query_to_file(directory: Path, query: List) -> None:

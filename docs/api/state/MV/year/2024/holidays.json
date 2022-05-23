@@ -1,52 +1,52 @@
 [
     {
+        "comment": "",
+        "end": "2024-02-16",
         "holiday": "winter",
-        "state_abbrevation": "MV",
-        "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2024,
         "school_year": "23/24",
         "start": "2024-02-05",
-        "end": "2024-02-16",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "MV",
         "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-04-03",
+        "holiday": "ostern_fruehjahr",
         "school_year": "23/24",
         "start": "2024-03-25",
-        "end": "2024-04-03",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "MV",
         "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "Erster Teil",
+        "end": "2024-05-10",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "23/24",
         "start": "2024-05-10",
-        "end": "2024-05-10",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "MV",
         "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2024-05-21",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "23/24",
         "start": "2024-05-17",
-        "end": "2024-05-21",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "MV",
         "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-08-31",
+        "holiday": "sommer",
         "school_year": "23/24",
         "start": "2024-07-22",
-        "end": "2024-08-31",
-        "comment": ""
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2024
     }
 ]

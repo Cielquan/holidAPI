@@ -1,22 +1,22 @@
 [
     {
+        "comment": "",
+        "end": "2020-10-16",
         "holiday": "herbst",
-        "state_abbrevation": "HH",
-        "state_long_name": "Hamburg",
-        "year": 2020,
         "school_year": "20/21",
         "start": "2020-10-05",
-        "end": "2020-10-16",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "HH",
         "state_long_name": "Hamburg",
-        "year": 2020,
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-04",
+        "holiday": "weihnachten",
         "school_year": "20/21",
         "start": "2020-12-21",
-        "end": "2020-01-04",
-        "comment": ""
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2020
     }
 ]

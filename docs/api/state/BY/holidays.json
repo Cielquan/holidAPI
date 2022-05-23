@@ -1,242 +1,242 @@
 [
     {
+        "comment": "",
+        "end": "2022-11-04",
         "holiday": "herbst",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-11-02",
-        "end": "2021-11-05",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-12-24",
-        "end": "2021-01-08",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-02-28",
-        "end": "2022-03-04",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-04-11",
-        "end": "2022-04-23",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-06-07",
-        "end": "2022-06-18",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-08-01",
-        "end": "2022-09-12",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
-        "state_abbrevation": "BY",
-        "state_long_name": "Bayern",
-        "year": 2022,
         "school_year": "22/23",
         "start": "2022-10-31",
-        "end": "2022-11-04",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2022,
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-01-07",
+        "holiday": "weihnachten",
         "school_year": "22/23",
         "start": "2022-12-24",
-        "end": "2022-01-07",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2023,
+        "year": 2022
+    },
+    {
+        "comment": "Erster Teil",
+        "end": "2023-02-24",
+        "holiday": "ostern_fruehjahr",
         "school_year": "22/23",
         "start": "2023-02-20",
-        "end": "2023-02-24",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2023-04-15",
+        "holiday": "ostern_fruehjahr",
         "school_year": "22/23",
         "start": "2023-04-03",
-        "end": "2023-04-15",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-06-09",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "22/23",
         "start": "2023-05-30",
-        "end": "2023-06-09",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-09-11",
+        "holiday": "sommer",
         "school_year": "22/23",
         "start": "2023-07-31",
-        "end": "2023-09-11",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2020,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2020-11-06",
+        "holiday": "herbst",
         "school_year": "20/21",
         "start": "2020-10-31",
-        "end": "2020-11-06",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2020,
+        "year": 2020
+    },
+    {
+        "comment": "",
+        "end": "2020-01-09",
+        "holiday": "weihnachten",
         "school_year": "20/21",
         "start": "2020-12-23",
-        "end": "2020-01-09",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2021,
+        "year": 2020
+    },
+    {
+        "comment": "Erster Teil",
+        "end": "2021-02-19",
+        "holiday": "ostern_fruehjahr",
         "school_year": "20/21",
         "start": "2021-02-15",
-        "end": "2021-02-19",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2021-04-10",
+        "holiday": "ostern_fruehjahr",
         "school_year": "20/21",
         "start": "2021-03-29",
-        "end": "2021-04-10",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-06-04",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "20/21",
         "start": "2021-05-25",
-        "end": "2021-06-04",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-09-13",
+        "holiday": "sommer",
         "school_year": "20/21",
         "start": "2021-07-30",
-        "end": "2021-09-13",
-        "comment": ""
-    },
-    {
-        "holiday": "herbst",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2023,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2023-11-03",
+        "holiday": "herbst",
         "school_year": "23/24",
         "start": "2023-10-30",
-        "end": "2023-11-03",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2023,
+        "year": 2023
+    },
+    {
+        "comment": "",
+        "end": "2023-01-05",
+        "holiday": "weihnachten",
         "school_year": "23/24",
         "start": "2023-12-23",
-        "end": "2023-01-05",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2024,
+        "year": 2023
+    },
+    {
+        "comment": "Erster Teil",
+        "end": "2024-02-16",
+        "holiday": "ostern_fruehjahr",
         "school_year": "23/24",
         "start": "2024-02-12",
-        "end": "2024-02-16",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2024-04-06",
+        "holiday": "ostern_fruehjahr",
         "school_year": "23/24",
         "start": "2024-03-25",
-        "end": "2024-04-06",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-06-01",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "23/24",
         "start": "2024-05-21",
-        "end": "2024-06-01",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "BY",
         "state_long_name": "Bayern",
-        "year": 2024,
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2024-09-09",
+        "holiday": "sommer",
         "school_year": "23/24",
         "start": "2024-07-29",
-        "end": "2024-09-09",
-        "comment": ""
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2024
+    },
+    {
+        "comment": "",
+        "end": "2021-11-05",
+        "holiday": "herbst",
+        "school_year": "21/22",
+        "start": "2021-11-02",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-01-08",
+        "holiday": "weihnachten",
+        "school_year": "21/22",
+        "start": "2021-12-24",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2021
+    },
+    {
+        "comment": "Erster Teil",
+        "end": "2022-03-04",
+        "holiday": "ostern_fruehjahr",
+        "school_year": "21/22",
+        "start": "2022-02-28",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2022
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2022-04-23",
+        "holiday": "ostern_fruehjahr",
+        "school_year": "21/22",
+        "start": "2022-04-11",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-06-18",
+        "holiday": "himmelfahrt_pfingsten",
+        "school_year": "21/22",
+        "start": "2022-06-07",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-09-12",
+        "holiday": "sommer",
+        "school_year": "21/22",
+        "start": "2022-08-01",
+        "state_abbrevation": "BY",
+        "state_long_name": "Bayern",
+        "year": 2022
     }
 ]

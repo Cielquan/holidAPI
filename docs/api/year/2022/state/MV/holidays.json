@@ -1,92 +1,92 @@
 [
     {
-        "holiday": "winter",
-        "state_abbrevation": "MV",
-        "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-02-05",
-        "end": "2022-02-17",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "winter",
-        "state_abbrevation": "MV",
-        "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-02-18",
-        "end": "2022-02-18",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "ostern_fruehjahr",
-        "state_abbrevation": "MV",
-        "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-04-11",
-        "end": "2022-04-20",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
-        "state_abbrevation": "MV",
-        "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-05-27",
-        "end": "2022-05-27",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
-        "state_abbrevation": "MV",
-        "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-06-03",
-        "end": "2022-06-07",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "sommer",
-        "state_abbrevation": "MV",
-        "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2022,
-        "school_year": "21/22",
-        "start": "2022-07-04",
-        "end": "2022-08-13",
-        "comment": ""
-    },
-    {
+        "comment": "Erster Teil",
+        "end": "2022-10-14",
         "holiday": "herbst",
-        "state_abbrevation": "MV",
-        "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2022,
         "school_year": "22/23",
         "start": "2022-10-10",
-        "end": "2022-10-14",
-        "comment": "Erster Teil"
-    },
-    {
-        "holiday": "herbst",
         "state_abbrevation": "MV",
         "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2022,
+        "year": 2022
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2022-11-02",
+        "holiday": "herbst",
         "school_year": "22/23",
         "start": "2022-11-01",
-        "end": "2022-11-02",
-        "comment": "Zweiter Teil"
-    },
-    {
-        "holiday": "weihnachten",
         "state_abbrevation": "MV",
         "state_long_name": "Mecklenburg-Vorpommern",
-        "year": 2022,
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-01-02",
+        "holiday": "weihnachten",
         "school_year": "22/23",
         "start": "2022-12-22",
-        "end": "2022-01-02",
-        "comment": ""
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2022
+    },
+    {
+        "comment": "Erster Teil",
+        "end": "2022-02-17",
+        "holiday": "winter",
+        "school_year": "21/22",
+        "start": "2022-02-05",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2022
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2022-02-18",
+        "holiday": "winter",
+        "school_year": "21/22",
+        "start": "2022-02-18",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-04-20",
+        "holiday": "ostern_fruehjahr",
+        "school_year": "21/22",
+        "start": "2022-04-11",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2022
+    },
+    {
+        "comment": "Erster Teil",
+        "end": "2022-05-27",
+        "holiday": "himmelfahrt_pfingsten",
+        "school_year": "21/22",
+        "start": "2022-05-27",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2022
+    },
+    {
+        "comment": "Zweiter Teil",
+        "end": "2022-06-07",
+        "holiday": "himmelfahrt_pfingsten",
+        "school_year": "21/22",
+        "start": "2022-06-03",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2022
+    },
+    {
+        "comment": "",
+        "end": "2022-08-13",
+        "holiday": "sommer",
+        "school_year": "21/22",
+        "start": "2022-07-04",
+        "state_abbrevation": "MV",
+        "state_long_name": "Mecklenburg-Vorpommern",
+        "year": 2022
     }
 ]

@@ -1,62 +1,62 @@
 [
     {
-        "holiday": "herbst",
-        "state_abbrevation": "HH",
-        "state_long_name": "Hamburg",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-10-04",
-        "end": "2021-10-15",
-        "comment": ""
-    },
-    {
-        "holiday": "weihnachten",
-        "state_abbrevation": "HH",
-        "state_long_name": "Hamburg",
-        "year": 2021,
-        "school_year": "21/22",
-        "start": "2021-12-23",
-        "end": "2021-01-04",
-        "comment": ""
-    },
-    {
+        "comment": "",
+        "end": "2021-01-09",
         "holiday": "winter",
-        "state_abbrevation": "HH",
-        "state_long_name": "Hamburg",
-        "year": 2021,
         "school_year": "20/21",
         "start": "2021-01-29",
-        "end": "2021-01-09",
-        "comment": ""
-    },
-    {
-        "holiday": "ostern_fruehjahr",
         "state_abbrevation": "HH",
         "state_long_name": "Hamburg",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-03-12",
+        "holiday": "ostern_fruehjahr",
         "school_year": "20/21",
         "start": "2021-03-01",
-        "end": "2021-03-12",
-        "comment": ""
-    },
-    {
-        "holiday": "himmelfahrt_pfingsten",
         "state_abbrevation": "HH",
         "state_long_name": "Hamburg",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-05-14",
+        "holiday": "himmelfahrt_pfingsten",
         "school_year": "20/21",
         "start": "2021-05-10",
-        "end": "2021-05-14",
-        "comment": ""
-    },
-    {
-        "holiday": "sommer",
         "state_abbrevation": "HH",
         "state_long_name": "Hamburg",
-        "year": 2021,
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-08-04",
+        "holiday": "sommer",
         "school_year": "20/21",
         "start": "2021-06-24",
-        "end": "2021-08-04",
-        "comment": ""
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-10-15",
+        "holiday": "herbst",
+        "school_year": "21/22",
+        "start": "2021-10-04",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2021
+    },
+    {
+        "comment": "",
+        "end": "2021-01-04",
+        "holiday": "weihnachten",
+        "school_year": "21/22",
+        "start": "2021-12-23",
+        "state_abbrevation": "HH",
+        "state_long_name": "Hamburg",
+        "year": 2021
     }
 ]
