@@ -142,21 +142,31 @@ def create_holiday_entry(row: List, session: db.orm.session.Session) -> Holiday:
     :param session: database session
     :return: Holiday instance
     """
+    start_date=date(
+        year=int(row[2]),
+        month=int(row[4].split(".")[1]),
+        day=int(row[4].split(".")[0]),
+    )
+    end_date=date(
+        year=int(row[2]),
+        month=int(row[5].split(".")[1]),
+        day=int(row[5].split(".")[0]),
+    )
+
+    if start_date > end_date:
+        end_date=date(
+            year=int(row[2]) + 1,
+            month=int(row[5].split(".")[1]),
+            day=int(row[5].split(".")[0]),
+        )
+
     return Holiday(
         state_id=session.query(State).filter_by(long_name=row[0]).first().id,
         holiday=row[1],
         year=int(row[2]),
         school_year=row[3],
-        start=date(
-            year=int(row[2]),
-            month=int(row[4].split(".")[1]),
-            day=int(row[4].split(".")[0]),
-        ),
-        end=date(
-            year=int(row[2]),
-            month=int(row[5].split(".")[1]),
-            day=int(row[5].split(".")[0]),
-        ),
+        start=start_date,
+        end=end_date,
         comment=row[6],
     )
 
