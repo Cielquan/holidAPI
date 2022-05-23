@@ -149,3 +149,6 @@ docs/source/autoapidoc
 
 
 poetry.lock
+
+# cache files
+.~*
